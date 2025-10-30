@@ -61,3 +61,6 @@ Project by Leroy Anand
 Inspired by real-world blue team operations and practical penetration testing scenarios.
 
 Feel free to fork, clone, or ask questions via Issues!
+
+
+BIG NOTE: THE FORTINET FIREWALL EXPRIES EVERY MONTH SO SOME TIMES THE FIREWALL FILES MIGHT NOT WORK I WILL TRY MY BEST TO KEEP IT UPDATED EACH MONTH.
