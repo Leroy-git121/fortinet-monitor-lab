@@ -24,21 +24,13 @@ Ever wondered how network pros see what's happening on the wire? This lab brings
 🛠️ Lab Steps & Screenshots
 
 **Interface and Addressing Setup**
-Configure WAN and LAN interfaces for proper segmentation:
-![WAN Interface](screenshots/3.jpg)
-
-![LAN Interface](screenshots/1.jpg)
+Configure WAN and LAN interfaces for proper segmentation:![WAN Interface](screenshots/3.jpg) ![LAN Interface](screenshots/1.jpg)
 
 **DHCP Monitoring**
-Automatically assign and track IPs for network devices: 
-![DHCP Monitor](screenshots/7.jpg)
+Automatically assign and track IPs for network devices: ![DHCP Monitor](screenshots/7.jpg) ![Client IP Assignment](images/6.png) 
 
-![Client IP Assignment](images/6.png) 
 **Routing & Firewall Policies**
-Define routes and rules to control data flow: 
-![Static Route](screenshots/4.jpg)
-
-![Policy Rules](screenshots/5.jpg)
+Define routes and rules to control data flow: ![Static Route](screenshots/4.jpg) ![Policy Rules](screenshots/5.jpg)
 
 **Real-Time Traffic Analysis**
 Dive into FortiView to observe live sessions, top applications, and endpoints: ![FortiView Monitoring](screenshots/7.jpg)
