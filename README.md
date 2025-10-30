@@ -25,7 +25,7 @@ Ever wondered how network pros see what's happening on the wire? This lab brings
 
     Interface and Addressing Setup
     Configure WAN and LAN interfaces for proper segmentation:
-    ![WAN Interface](images/Screenshot-2025-05
+    ![WAN Interface](screenshots/3
 
     ![LAN Interface](images/Screenshot-2025-05DHCP Monitoring**
     Automatically assign and track IPs for network devices:
